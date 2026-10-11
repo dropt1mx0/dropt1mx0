@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.gif" width="100%" alt="Header" />
+<img src="./dlls_859210ba0cb143ba8e9274d15d9bf2ff.gif" width="100%" alt="Header" />
 
 <h1>Hi, I'm dropt1m 👋</h1>
 
