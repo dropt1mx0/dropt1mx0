@@ -5,17 +5,29 @@
 <h1>Hi, I'm dropt1m 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Junior+Backend+%26+Blockchain+Dev;Learning+Rust+%26+Python;Building+Bots+%26+Smart+Contracts;Exploring+AI+%26+Modern+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Junior+Backend+%26+Web3+Dev;Trading+Systems+%26+Automation;Cybersecurity+%26+Network+Analysis;Exploring+AI+Agents+%26+Modern+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-Junior developer, actively exploring **Rust** and diving deeper into **Python / FastAPI**.  
-Interested in blockchain development, smart contracts (**Solidity**), and algorithmic trading bots.  
-Building Telegram bots and automation scripts, actively leveraging **LLMs / AI** in my workflow.  
-Comfortable around the **Linux / Bash** terminal and containerizing apps with **Docker**.  
+Junior developer passionate about building resilient backend services, trading automation, and Web3 solutions.  
+Actively exploring **Rust** & diving deeper into **Python / FastAPI / Node.js**.  
+Developing automated trading systems (exchange APIs, order execution state machines, risk management).  
+Investigating network security, traffic analysis, and blockchain infrastructure (EVM & TON ecosystems).  
+Enthusiastic about cutting-edge AI agent workflows, MCP, and local LLMs.
+
+---
+
+### Technical Highlights
+
+<p align="center">
+  <b>Trading Systems:</b> Python automation • Exchange API integration • State machines • Risk management<br/>
+  <b>Blockchain & Web3:</b> Smart Contracts (Solidity) • TON ecosystem • DEX integrations • Crypto APIs<br/>
+  <b>Cybersecurity:</b> Network traffic analysis • Honeypot deployment • Wireshark • mitmproxy<br/>
+  <b>AI Workflows:</b> AI Agents • Model Context Protocol (MCP) • Local LLMs (Ollama)
+</p>
 
 ---
 
@@ -27,22 +39,64 @@ Comfortable around the **Linux / Bash** terminal and containerizing apps with **
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-#### Backend & APIs
+#### Backend, Frameworks & APIs
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram_API-000000?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 #### Frontend
 <p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### Databases & BaaS
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+#### Blockchain & Web3
+<p align="center">
+  <img src="https://img.shields.io/badge/TON-000000?style=for-the-badge&logo=ton&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" />
+</p>
+
+#### Operating Systems & Terminals
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+#### DevOps, Testing & Deployment
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+#### Networking & Cybersecurity
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 #### IDEs & Editors
@@ -52,23 +106,9 @@ Comfortable around the **Linux / Bash** terminal and containerizing apps with **
   <img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
 </p>
 
-#### Deployment & Cloud
+#### AI, LLMs & Agents
 <p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-</p>
-
-#### Infrastructure & Environment
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-#### AI & LLM Tools
-<p align="center">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" />
