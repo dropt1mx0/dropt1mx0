@@ -59,6 +59,7 @@ Comfortable around the **Linux / Bash** terminal and containerizing apps with **
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
 ### Connect With Me
 
 <p align="center">
